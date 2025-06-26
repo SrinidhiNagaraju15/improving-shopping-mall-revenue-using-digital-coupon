@@ -1,0 +1,36 @@
+Service Provider
+
+Login,
+Train & Test Data Sets, 
+View Trained and Tested Accuracy in Bar Chart, 
+View Trained and Tested Accuracy Results, 
+View Prediction Of Shopping Mall Revenue Type, 
+View Shopping Mall Revenue Prediction Type Ratio, 
+Download Predicted Data Sets, 
+View Shopping Mall Revenue Prediction Type Ratio Results, 
+View All Remote Users.
+
+
+Remote User
+
+
+REGISTER AND LOGIN,
+Predict Shopping Mall Revenue Prediction Type,
+VIEW YOUR PROFILE. 
+
+
+Members
+
+
+Tid,	
+coupon _no,	
+customer_id,	
+gender,	
+age,	
+category,	
+quantity,	
+price,	
+payment _method,	
+invoice _date,	
+shopping _mall,
+Prediction.
